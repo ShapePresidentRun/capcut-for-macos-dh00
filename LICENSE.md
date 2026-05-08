@@ -1,4 +1,4 @@
-
+smart Adobe Spark for macOS Helper | drag-and-drop-editor + audio-sync is the best Adobe Spark for macOS helper, featuring drag-and-drop-editor and audio-sync. Powerful,
 
 
 
